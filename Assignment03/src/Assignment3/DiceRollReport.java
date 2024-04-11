@@ -20,7 +20,7 @@ public class DiceRollReport {
 	            totalRolls += diceRolls[index]; 
 	        }
 	        System.out.println("Total rolls were: " + totalRolls);
-	        System.out.println("Program by Your Name");
+	        System.out.println("Program by TARANDEEP KAUR ");
 	    }
 	}
 
